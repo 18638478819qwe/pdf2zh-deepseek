@@ -24,7 +24,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/sanger3471-dotcom/pdf2zh-deepseek.git
+git clone https://github.com/18638478819qwe/pdf2zh-deepseek.git
 cd pdf2zh-deepseek
 ```
 
