@@ -1,0 +1,24 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# Gradio & Cache
+.gradio/
+gradio_files/
+
+# PDF & Translated Output (Keep repository clean and private)
+*.pdf
+*.PDF
+待翻译/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.env

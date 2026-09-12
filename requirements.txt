@@ -1,0 +1,7 @@
+gradio>=4.0.0
+pymupdf>=1.24.0
+numpy
+requests
+openai>=1.0.0
+huggingface_hub
+doclayout_yolo
